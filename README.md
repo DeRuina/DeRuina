@@ -39,10 +39,8 @@
 
 <h1 align="left">Stats</h1>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=deruina&" alt="deruina" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=deruina&show_icons=true&locale=en" alt="deruina" /></p>
-<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deruina&show_icons=true&locale=en&layout=compact" alt="deruina" /></p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deruina&show_icons=true&locale=en&layout=compact" alt="deruina" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deruina&show_icons=true&locale=en" alt="deruina" /></p>
 
