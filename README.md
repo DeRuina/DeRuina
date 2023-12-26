@@ -1,16 +1,48 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Dean Ruina</h1>
+<h3 align="center">👨‍💻 DevOps | ☁️ Cloud Engineering | 🔐 Cyber Security Enthusiast</h3>
 
-<!--
-**DeRuina/DeRuina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=deruina&label=Profile%20views&color=0e75b6&style=flat" alt="deruina" /> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
-Here are some ideas to get you started:
+- 🔭 I’m currently studying Software Engineering at [HIVE Helsinki](https://www.hive.fi/en/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **Networking, Python and Golang**
+
+- 📝 I regularly write articles on [https://medium.com/@ruinadd](https://medium.com/@ruinadd)
+
+- 💬 Ask me about: Football (Chelsea FC fan), Trekking, Homebrewing, and Faith.
+
+- 📫 How to reach me: **ruinadd@gmail.com**
+
+- ⚡ Fun facts: I brew my own beer and I can teach you how to shoot a gun.
+
+<h1 align="left">🛠 Language and tools</h1>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+</p>
+
+<h1 align="left">Stats</h1>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=deruina&" alt="deruina" /></p>
+
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=deruina&show_icons=true&locale=en" alt="deruina" /></p>
+<br>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deruina&show_icons=true&locale=en&layout=compact" alt="deruina" /></p>
+
