@@ -14,7 +14,7 @@
 
 - 📫 How to reach me: **ruinadd@gmail.com**
 
-- ⚡ Fun facts: I brew my own beer and I can instruct you to shoot a gun.
+- ⚡ Fun facts: I brew my own beer and I can instruct you on how to shoot a gun.
 
 <h1 align="left">🛠 Language and tools</h1>
 <p align="left">
