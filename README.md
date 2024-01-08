@@ -36,7 +36,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
   <img width="12" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg](https://user-images.githubusercontent.com/33158051/103466649-c1245300-4d14-11eb-9637-be3297299c01.png)" height="40" alt="bash logo"  />
+  <img src="https://user-images.githubusercontent.com/33158051/103466649-c1245300-4d14-11eb-9637-be3297299c01.png" height="40" alt="bash logo"  />
   <img width="12" />
 </p>
 
