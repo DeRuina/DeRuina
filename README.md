@@ -12,8 +12,8 @@
 
 - 💬 Ask me about: Football (Chelsea FC fan), Trekking, Homebrewing, and Faith.
 
-- 📫 How to reach me: **ruinadd@gmail.com**
-
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/deanruina)
+  
 - ⚡ Fun facts: I brew my own beer and I can instruct you on how to shoot a gun.
 
 <h1 align="left">🛠 Language and tools</h1>
