@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently studying Software Engineering at [HIVE Helsinki](https://www.hive.fi/en/)
 
-- 🌱 I’m currently learning **Cloud Computing, Python and Golang**
+- 🌱 I’m currently learning **Cloud Computing, Golang and Docker**
 
 - 📝 I regularly write articles on [https://medium.com/@ruinadd](https://medium.com/@ruinadd)
 
