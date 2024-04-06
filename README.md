@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dean Ruina</h1>
-<h3 align="center">☁️ Cloud Engineering | 🔐 Cyber Security | 👨‍💻 DevOps Enthusiast</h3>
+<h3 align="center">☁️ Cloud Engineering | 🔐 Cyber Security </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=deruina&label=Profile%20views&color=0e75b6&style=flat" alt="deruina" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
