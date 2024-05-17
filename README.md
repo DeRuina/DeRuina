@@ -1,23 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dean Ruina</h1>
 
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=deruina&label=Profile%20views&color=0e75b6&style=flat" alt="deruina" /> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
-
-- 🔭 I’m currently studying Software Engineering at [HIVE Helsinki](https://www.hive.fi/en/)
-
-- 🌱 I’m currently learning **Azure, Golang and Docker**
-
-- 📝 I regularly write articles on [https://medium.com/@ruinadd](https://medium.com/@ruinadd)
-
-- 💬 Ask me about: Football (Chelsea FC fan), Trekking, Homebrewing, and Faith.
-
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/deanruina)
-
-- 📄 My Online CV: [CV](https://deanruina.vercel.app/)
-  
-- ⚡ Fun facts: I brew my own beer and I can instruct you on how to shoot a gun.
-
 <h1 align="left">🛠 Language and tools</h1>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
