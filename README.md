@@ -48,6 +48,8 @@
  <img width="12" />
 <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/redis/redis-plain-wordmark.svg" height="40" alt="redis logo"  />
   <img width="12" />
+<img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postman/postman-original.svg" height="40" alt="Postman logo"  />
+  <img width="12" />
 </p>
 
 <h1 align="left">Stats</h1>
