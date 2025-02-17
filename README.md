@@ -50,6 +50,8 @@
   <img width="12" />
 <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postman/postman-original.svg" height="40" alt="Postman logo"  />
   <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dbeaver/dbeaver-original.svg" height="40" alt="dbeaver logo"  />
+  <img width="12" />
 </p>
 
 <h1 align="left">Stats</h1>
