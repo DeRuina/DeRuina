@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Dean Ruina</h1>
 
-<h1 align="left">🛠</h1>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
